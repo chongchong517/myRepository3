@@ -7,8 +7,7 @@ Created on 2018Äê2ÔÂ11ÈÕ
 if __name__ == '__main__':
     
     
+    print("n66666 change")
     pass
     print("change")
-    print("p222lus")
-    pass
-    pass 
+    print("plus")
